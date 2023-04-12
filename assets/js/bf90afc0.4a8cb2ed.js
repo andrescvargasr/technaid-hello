@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechnaid_hello=self.webpackChunktechnaid_hello||[]).push([[5101],{2795:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/technaid-hello/blog/tags/hola","allTagsPath":"/technaid-hello/blog/tags","count":1}')}}]);
